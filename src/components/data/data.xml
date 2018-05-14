@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<canada>
+    <ontario>
+        <description>
+            Ontario one of the 13 provinces and territories of Canada, is located in east-central Canada.It is Canada's most populous province by a large margin, accounting for nearly 40 percent[10] of all Canadians, and is the second-largest province in total area. Ontario is fourth-largest in total area when the territories of the Northwest Territories and Nunavut are included.[1] It is home to the nation's capital city, Ottawa, and the nation's most populous city, Toronto.[11]
+
+            Ontario is bordered by the province of Manitoba to the west, Hudson Bay and James Bay to the north, and Quebec to the east and northeast, and to the south by the U.S. states of (from west to east) Minnesota, Michigan, Ohio, Pennsylvania and New York. Almost all of Ontario's 2,700 km (1,678 mi) border with the United States follows inland waterways: from the west at Lake of the Woods, eastward along the major rivers and lakes of the Great Lakes/Saint Lawrence River drainage system. These are the Rainy River, the Pigeon River, Lake Superior, the St. Marys River, Lake Huron, the St. Clair River, Lake St. Clair, the Detroit River, Lake Erie, the Niagara River, Lake Ontario and along the St. Lawrence River from Kingston, Ontario, to the Quebec boundary just east of Cornwall, Ontario. There is only about 1 km (0.6 mi) of land border made up of portages including Height of Land Portage on the Minnesota border
+        </description>
+    </ontario>
+    <alberta>
+        <description>
+            Alberta is a western province of Canada. With an estimated population of 4,196,457 as of July 1, 2015,it is Canada's fourth-most populous province and the most populous of Canada's three prairie provinces. Its area is about 660,000 square kilometres (250,000 sq mi). Alberta and its neighbour Saskatchewan were districts of the Northwest Territories until they were established as provinces on September 1, 1905.[6] The premier has been Rachel Notley since May 2015.
+            Alberta is bounded by the provinces of British Columbia to the west and Saskatchewan to the east, the Northwest Territories to the north, and the U.S. state of Montana to the south. Alberta is one of three Canadian provinces and territories to border only a single U.S. state and one of only two landlocked provinces. It has a predominantly humid continental climate, with stark contrasts over a year but seasonal temperature average swings are smaller than to areas further east, due to winters being warmed by occasional chinook winds bringing sudden warming.
+        </description>
+    </alberta>
+    <manitoba>
+        <Image>
+            <img width="100" height="100" alt="FPO lady" src="canada.jpeg"/>
+        </Image>
+        <description>
+            Manitoba is a Canadian province bordered by Ontario to the east and Saskatchewan to the west. Its landscape of lakes and rivers, mountains, forests and prairies stretches from northern Arctic tundra to Hudson Bay in the east and southern farmland. Much wilderness is protected in more than 80 provincial parks, where hiking, biking, canoeing, camping and fishing are all popular.
+            Manitoba's capital and largest city, Winnipeg, is Canada's eighth-largest census metropolitan area. Winnipeg is the seat of government, home to the Legislative Assembly of Manitoba and the Provincial Court. Four of the province's five universities and all four of its professional sports teams are in Winnipeg.
+        </description>
+    </manitoba>
+    <quebec>
+        <description>
+            Quebec is Canada's largest province by area and its second-largest administrative division; only the territory of Nunavut is larger. It is bordered to the west by the province of Ontario, James Bay, and Hudson Bay; to the north by Hudson Strait and Ungava Bay; to the east by the Gulf of Saint Lawrence and the province of Newfoundland and Labrador; and to the south by the province of New Brunswick and the US states of Maine, New Hampshire, Vermont, and New York. It also shares maritime borders with Nunavut, Prince Edward Island, and Nova Scotia.
+
+            Quebec is Canada's second-most populous province, after Ontario. Most inhabitants live in urban areas near the Saint Lawrence River between Montreal and Quebec City, the capital. Approximately half of Quebec residents live in the Greater Montreal Area, including the Island of Montreal. English-speaking communities and English-language institutions are concentrated in the west of the island of Montreal but are also significantly present in the Outaouais, Eastern Townships, and Gasp regions. The Nord-du-Quebec region, occupying the northern half of the province, is sparsely populated and inhabited primarily by Aboriginal peoples.
+        </description>
+    </quebec>
+    <britishcolumbia>
+        <description>
+            British Columbia (BC) is the westernmost province of Canada, with a population of more than four million people located between the Pacific Ocean and the Rocky Mountains. British Columbia is also a component of the Pacific Northwest and the Cascadia bioregion, along with the U.S. states of Idaho, Oregon, Washington and Alaska.[5][6]
+
+            The first British settlement in the area was Fort Victoria, established in 1843, which gave rise to the city of Victoria, at first the capital of the separate Colony of Vancouver Island. Subsequently, on the mainland, the Colony of British Columbia (1858?66) was founded by Richard Clement Moody[7] and the Royal Engineers, Columbia Detachment, in response to the Fraser Canyon Gold Rush. Moody was Chief Commissioner of Lands and Works for the Colony and the first Lieutenant-Governor of British Columbia: he was hand-picked by the Colonial Office in London to transform British Columbia into the British Empire's "bulwark in the farthest west",[8] and "to found a second England on the shores of the Pacific".[9] Moody selected the site for and founded the original capital of British Columbia, New Westminster, established the Cariboo Road and Stanley Park,[10] and designed the first version of the Coat of arms of British Columbia.Port Moody is named after him.
+        </description>
+    </britishcolumbia>
+
+</canada>
